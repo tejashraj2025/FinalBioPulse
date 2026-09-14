@@ -1,0 +1,8 @@
+{
+  "name": "Remix Final BioPulse",
+  "description": "Pharmacovigilance safety-mesh pipeline featuring parallel clinical agents, XGBoost risk stratification, human-in-the-loop review, and audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

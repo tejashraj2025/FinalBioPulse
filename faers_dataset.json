@@ -1,0 +1,110 @@
+[
+  {
+    "report_id": "FAERS-2024-001928",
+    "drug": "Drug X",
+    "reactions": ["nausea", "hypotension", "fever"],
+    "outcome": "Hospitalization - Required Inotropic Support",
+    "reported_date": "2024-03-12",
+    "seriousness": "High",
+    "reporter": "Clinical Pharmacist"
+  },
+  {
+    "report_id": "FAERS-2024-003481",
+    "drug": "Drug X",
+    "reactions": ["severe nausea", "dizziness", "hypotension"],
+    "outcome": "Life-Threatening Episode",
+    "reported_date": "2024-06-20",
+    "seriousness": "High",
+    "reporter": "Emergency Physician"
+  },
+  {
+    "report_id": "FAERS-2023-018921",
+    "drug": "Drug X",
+    "reactions": ["rash", "mild nausea"],
+    "outcome": "Recovered Without Sequelae",
+    "reported_date": "2023-11-04",
+    "seriousness": "Low",
+    "reporter": "Primary Care"
+  },
+  {
+    "report_id": "FAERS-2024-007142",
+    "drug": "Pembrolizumab",
+    "reactions": ["hepatotoxicity", "fever", "rash"],
+    "outcome": "Immune-Mediated Hepatitis - Steroid Intervention",
+    "reported_date": "2024-01-18",
+    "seriousness": "High",
+    "reporter": "Oncology Safety Specialist"
+  },
+  {
+    "report_id": "FAERS-2023-049811",
+    "drug": "Warfarin",
+    "reactions": ["hypotension", "dizziness", "hematuria"],
+    "outcome": "Critical Bleeding Event - Transfusion Administered",
+    "reported_date": "2023-08-29",
+    "seriousness": "High",
+    "reporter": "Hematology Specialist"
+  },
+  {
+    "report_id": "FAERS-2024-005201",
+    "drug": "Metformin",
+    "reactions": ["nausea", "vomiting", "abdominal pain"],
+    "outcome": "Gastrointestinal Intolerance - Drug Discontinued",
+    "reported_date": "2024-02-14",
+    "seriousness": "Moderate",
+    "reporter": "Endocrinologist"
+  },
+  {
+    "report_id": "FAERS-2024-011239",
+    "drug": "Lisinopril",
+    "reactions": ["hypotension", "dizziness", "dry cough"],
+    "outcome": "Orthostatic Syncopal Event",
+    "reported_date": "2024-05-09",
+    "seriousness": "Moderate",
+    "reporter": "Cardiologist"
+  },
+  {
+    "report_id": "FAERS-2023-088712",
+    "drug": "Ciprofloxacin",
+    "reactions": ["arrhythmia", "dizziness", "nausea"],
+    "outcome": "QTc Prolongation Observed",
+    "reported_date": "2023-10-15",
+    "seriousness": "High",
+    "reporter": "Infectious Disease Consultant"
+  },
+  {
+    "report_id": "FAERS-2024-009941",
+    "drug": "Hydralazine",
+    "reactions": ["hypotension", "tachycardia", "dizziness"],
+    "outcome": "Acute Refractory Vasodilation",
+    "reported_date": "2024-04-02",
+    "seriousness": "High",
+    "reporter": "Critical Care Specialist"
+  },
+  {
+    "report_id": "FAERS-2023-066319",
+    "drug": "Vancomycin",
+    "reactions": ["rash", "fever", "hypotension"],
+    "outcome": "Severe Histaminoid Reaction",
+    "reported_date": "2023-09-22",
+    "seriousness": "High",
+    "reporter": "Hospitalist"
+  },
+  {
+    "report_id": "FAERS-2024-004412",
+    "drug": "Amoxicillin",
+    "reactions": ["rash", "mild fever"],
+    "outcome": "Maculopapular Exanthem - Resolved",
+    "reported_date": "2024-03-30",
+    "seriousness": "Low",
+    "reporter": "General Practitioner"
+  },
+  {
+    "report_id": "FAERS-2024-012903",
+    "drug": "Amiodarone",
+    "reactions": ["arrhythmia", "hepatotoxicity"],
+    "outcome": "Ventricular Tachycardia & Elevated Transaminases",
+    "reported_date": "2024-07-11",
+    "seriousness": "High",
+    "reporter": "Electrophysiologist"
+  }
+]

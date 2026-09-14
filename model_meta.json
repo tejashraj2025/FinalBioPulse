@@ -1,0 +1,34 @@
+{
+  "feature_names": [
+    "symptom_nausea",
+    "symptom_fever",
+    "symptom_hypotension",
+    "symptom_rash",
+    "symptom_dizziness",
+    "symptom_hepatotoxicity",
+    "symptom_arrhythmia",
+    "severe_symptom_flag",
+    "total_symptom_count",
+    "rapid_onset_flag",
+    "relevant_evidence_found",
+    "faers_case_frequency"
+  ],
+  "feature_importances": {
+    "symptom_nausea": 0.012312435545027256,
+    "symptom_fever": 0.022250810638070107,
+    "symptom_hypotension": 0.07135035842657089,
+    "symptom_rash": 0.013321404345333576,
+    "symptom_dizziness": 0.013316702097654343,
+    "symptom_hepatotoxicity": 0.07031802833080292,
+    "symptom_arrhythmia": 0.06855817884206772,
+    "severe_symptom_flag": 0.40356940031051636,
+    "total_symptom_count": 0.031684570014476776,
+    "rapid_onset_flag": 0.03963438421487808,
+    "relevant_evidence_found": 0.16170722246170044,
+    "faers_case_frequency": 0.09197651594877243
+  },
+  "accuracy": 0.9667,
+  "roc_auc": 0.9908,
+  "n_samples": 750,
+  "model_version": "BioPulse-XGB-v1.0"
+}
